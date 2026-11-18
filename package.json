@@ -64,5 +64,23 @@
     "lodash": "^4.17.21",
     "marks-pane": "^1.0.9",
     "path-webpack": "0.0.3"
+  },
+  "resolutions": {
+    "documentation/@babel/core": "7.29.6",
+    "documentation/ansi-html": "0.0.8",
+    "**/engine.io/debug": "4.3.1",
+    "**/socket.io/debug": "4.3.1",
+    "**/socket.io-parser/debug": "4.3.1",
+    "mocha/debug": "3.2.7",
+    "mocha/js-yaml": "3.15.2",
+    "mocha/minimatch": "3.1.5",
+    "**/request/form-data": "2.5.6",
+    "**/request/qs": "6.17.1",
+    "**/express/path-to-regexp": "0.1.12",
+    "**/express/qs": "6.17.1",
+    "**/body-parser/qs": "6.17.1",
+    "karma/tmp": "0.2.7",
+    "karma/ua-parser-js": "0.7.24",
+    "**/faye-websocket/websocket-driver": "0.7.5"
   }
 }
